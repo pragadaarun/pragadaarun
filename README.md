@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pragadaarun
 - 👀 I’m interested in C, Python, Java, Matlab
-- 🌱 I’m currently learning Devops, NodeJS, SQL
+- 🌱 I’m currently learning Android Studio 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
